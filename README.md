@@ -17,3 +17,7 @@ This repository contains some basic projects built for app development in both <
 > react-native run-android
 
 NOTE: For running the app on android you need to ensure that your android studio and android emulator (using marshmallow preferably) is up and running.
+
+
+
+(Inspired from Stephen Grider's Course on Udemy for Learning React-Native & Redux)
