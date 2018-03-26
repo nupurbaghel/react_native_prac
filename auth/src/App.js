@@ -8,13 +8,14 @@ class App extends Component {
   state = { loggedIn: null };
 
   componentWillMount() {
+    // copy paste your details from your firebase account after creating a project 
     firebase.initializeApp({
-      apiKey: 'AIzaSyAgNSoClkiDQ38ODKCqPpdd00wL7sb2i7M',
-      authDomain: 'auth-native-f3306.firebaseapp.com',
-      databaseURL: 'https://auth-native-f3306.firebaseio.com',
-      projectId: 'auth-native-f3306',
-      storageBucket: 'auth-native-f3306.appspot.com',
-      messagingSenderId: '957496464927'
+      apiKey: APIKEY,
+      authDomain: AUTH_DOMAIN,
+      databaseURL: DATABASE_URL,
+      projectId: PROJECT_ID,
+      storageBucket: STORAGE__BUCKET,
+      messagingSenderId: SENDER_ID
     });
 
     firebase.auth().onAuthStateChanged((user) => {
