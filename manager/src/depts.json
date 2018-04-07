@@ -1,0 +1,383 @@
+[
+  {
+    "dept": "Acet Plant"
+  },
+  {
+    "dept": "ACWE"
+  },
+  {
+    "dept": "BBM"
+  },
+  {
+    "dept": "BE"
+  },
+  {
+    "dept": "BF"
+  },
+  {
+    "dept": "BF-8"
+  },
+  {
+    "dept": "BRM"
+  },
+  {
+    "dept": "C&IT"
+  },
+  {
+    "dept": "CAS&CWP"
+  },
+  {
+    "dept": "CBMS"
+  },
+  {
+    "dept": "CCS"
+  },
+  {
+    "dept": "CED"
+  },
+  {
+    "dept": "CEO Off"
+  },
+  {
+    "dept": "CHM"
+  },
+  {
+    "dept": "CHM I"
+  },
+  {
+    "dept": "CHM II"
+  },
+  {
+    "dept": "CHM III"
+  },
+  {
+    "dept": "CHM IV"
+  },
+  {
+    "dept": "CMMS&MD"
+  },
+  {
+    "dept": "CO&CCD"
+  },
+  {
+    "dept": "Cont Cell"
+  },
+  {
+    "dept": "ContCell-NW"
+  },
+  {
+    "dept": "Converter"
+  },
+  {
+    "dept": "Cost Cntrl"
+  },
+  {
+    "dept": "CPD"
+  },
+  {
+    "dept": "CR&M(M)"
+  },
+  {
+    "dept": "CRM(E)"
+  },
+  {
+    "dept": "Dalli"
+  },
+  {
+    "dept": "DespCoord"
+  },
+  {
+    "dept": "ED (P&A)"
+  },
+  {
+    "dept": "ED Project"
+  },
+  {
+    "dept": "ED Works"
+  },
+  {
+    "dept": "EDD"
+  },
+  {
+    "dept": "Electrical"
+  },
+  {
+    "dept": "EMD"
+  },
+  {
+    "dept": "Envt Mngt"
+  },
+  {
+    "dept": "EqBldg&StrIns"
+  },
+  {
+    "dept": "ERS"
+  },
+  {
+    "dept": "ETL"
+  },
+  {
+    "dept": "F&A"
+  },
+  {
+    "dept": "F&PS"
+  },
+  {
+    "dept": "F&SS"
+  },
+  {
+    "dept": "F&SSShop&TPL"
+  },
+  {
+    "dept": "Fire Brig"
+  },
+  {
+    "dept": "Hirri"
+  },
+  {
+    "dept": "HM(Elect)"
+  },
+  {
+    "dept": "HRDD"
+  },
+  {
+    "dept": "IED"
+  },
+  {
+    "dept": "INCOS"
+  },
+  {
+    "dept": "Inspection"
+  },
+  {
+    "dept": "Instrmnt"
+  },
+  {
+    "dept": "Int Aud"
+  },
+  {
+    "dept": "L&A"
+  },
+  {
+    "dept": "Law"
+  },
+  {
+    "dept": "M&HS"
+  },
+  {
+    "dept": "M&U"
+  },
+  {
+    "dept": "Marketing"
+  },
+  {
+    "dept": "MARS Area I"
+  },
+  {
+    "dept": "MARS Area II"
+  },
+  {
+    "dept": "MARS Area III"
+  },
+  {
+    "dept": "Mech Zn"
+  },
+  {
+    "dept": "MechInsp"
+  },
+  {
+    "dept": "MechServ"
+  },
+  {
+    "dept": "Mills"
+  },
+  {
+    "dept": "Mines"
+  },
+  {
+    "dept": "Mines HQ"
+  },
+  {
+    "dept": "MM"
+  },
+  {
+    "dept": "MMill"
+  },
+  {
+    "dept": "MPRD"
+  },
+  {
+    "dept": "MRD"
+  },
+  {
+    "dept": "Nandini"
+  },
+  {
+    "dept": "O&M"
+  },
+  {
+    "dept": "OHP"
+  },
+  {
+    "dept": "OP I"
+  },
+  {
+    "dept": "OP II"
+  },
+  {
+    "dept": "PEM"
+  },
+  {
+    "dept": "Pers"
+  },
+  {
+    "dept": "PLEM"
+  },
+  {
+    "dept": "PlGarage"
+  },
+  {
+    "dept": "PMill"
+  },
+  {
+    "dept": "PowerSys"
+  },
+  {
+    "dept": "PowerZn"
+  },
+  {
+    "dept": "PP I"
+  },
+  {
+    "dept": "PPC"
+  },
+  {
+    "dept": "PRD"
+  },
+  {
+    "dept": "Projects"
+  },
+  {
+    "dept": "Purchase"
+  },
+  {
+    "dept": "Quality"
+  },
+  {
+    "dept": "Rajhara"
+  },
+  {
+    "dept": "RCL"
+  },
+  {
+    "dept": "RDCIS"
+  },
+  {
+    "dept": "Reclamation"
+  },
+  {
+    "dept": "RED"
+  },
+  {
+    "dept": "RED I"
+  },
+  {
+    "dept": "RED II"
+  },
+  {
+    "dept": "Retention"
+  },
+  {
+    "dept": "Revp Cell"
+  },
+  {
+    "dept": "RMD"
+  },
+  {
+    "dept": "RMP I"
+  },
+  {
+    "dept": "RMP II"
+  },
+  {
+    "dept": "RO Off"
+  },
+  {
+    "dept": "RSM"
+  },
+  {
+    "dept": "RT&RS"
+  },
+  {
+    "dept": "SED"
+  },
+  {
+    "dept": "Services"
+  },
+  {
+    "dept": "SGP"
+  },
+  {
+    "dept": "Shops"
+  },
+  {
+    "dept": "SMS I"
+  },
+  {
+    "dept": "SMS II"
+  },
+  {
+    "dept": "SMS III"
+  },
+  {
+    "dept": "SP II"
+  },
+  {
+    "dept": "SP III"
+  },
+  {
+    "dept": "SRU"
+  },
+  {
+    "dept": "Stores"
+  },
+  {
+    "dept": "T&D"
+  },
+  {
+    "dept": "TechServ"
+  },
+  {
+    "dept": "Telecomm"
+  },
+  {
+    "dept": "Time Keep"
+  },
+  {
+    "dept": "TP&I(Elect)"
+  },
+  {
+    "dept": "Trade Unions"
+  },
+  {
+    "dept": "TSD"
+  },
+  {
+    "dept": "URM"
+  },
+  {
+    "dept": "Utilities"
+  },
+  {
+    "dept": "VendorDevCell"
+  },
+  {
+    "dept": "Vigilance"
+  },
+  {
+    "dept": "WMD"
+  },
+  {
+    "dept": "WRM"
+  }
+]
